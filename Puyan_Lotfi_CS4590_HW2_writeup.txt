@@ -1,0 +1,45 @@
+// CS4590 
+// HW2
+// Puyan Lotfi
+// March 16th 2007
+// Professor Maribeth Gandy
+//
+// Write up:
+//
+// So a few of the things that I have 
+// incorporated into my ChucK program are:
+//
+// - Three different instruments:
+// 
+// 	- Mandolin
+// 	- Sitar
+// 	- FLute
+//
+// - Envelop function:
+//
+// 	- I took the example code with the spork,
+// 	  worked from there. 
+// 	- Basically I made it increase the gain
+// 	  with the increment in the for loop
+// 	  and I divide the note dur with some
+// 	  random function. 
+//
+// - Other addons:
+// 
+// 	- I added some mouse listener events
+// 	  that bassically play the flute and 
+// 	  the mandolin when the mouse is clicked
+// 	  and play the sitar when the mouse is draged about.
+//
+// Basically there is a neat exploding sound when you click
+// the mouse button (cause of the flute dragging on and the 
+// increase in gain in the mandolin from the envelop/spork)
+// and very precise sitar sounds when you drag. If you drag
+// a lot, it will sound garbled. Best thing is to experiment
+// a little with how to move the mouse and how often to click 
+// the buttons, until you figure out what sounds cool.
+// 
+// And that is all I have to say about that...
+//
+//
+
